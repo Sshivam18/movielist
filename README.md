@@ -6,7 +6,7 @@ A simple movie list application built using Next.js, Firebase, and the OMDB API.
 
 ## Project Domain
 
-- **Live Application:** [moviesbyyash.vercel.app](https://moviesbyyash.vercel.app/)
+- **Live Application:** [https://movielist-kartik.vercel.app/](https://movielist-kartik.vercel.app/)
 
 ## Features
 
